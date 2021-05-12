@@ -1,2 +1,2 @@
-# Aulinhas
-Aprenda sobre bots do discord
+# GodZiki
+Aprenda sobre bots
